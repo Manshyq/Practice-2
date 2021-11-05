@@ -29,10 +29,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](.screenshots/final dark mode.png)
-![](.screenshots/final light mode.png)
-![](.screenshots/without basic css.png)
-![](.screenshots/without js + hover.jpg)
+![Dark mode](screenshots/final dark mode.png)
+![Light mode](screenshots/final light mode.png)
+![Withous basic CSS](screenshots/without basic css.png)
+![Without JS and how the hover looks](screenshots/without js + hover.jpg)
 
 
 ### Links
