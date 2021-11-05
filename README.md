@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Dark mode](screenshots/final dark mode.png)
-![Light mode](screenshots/final light mode.png)
-![Withous basic CSS](screenshots/without basic css.png)
+![Dark mode](https://github.com/Manshyq/Practice-2/blob/main/screenshots/final%20dark%20mode.png)
+![Light mode](https://github.com/Manshyq/Practice-2/blob/main/screenshots/final%20light%20mode.png)
+!["Withous basic CSS"](https://github.com/Manshyq/Practice-2/blob/main/screenshots/without%20basic%20css.png)
 ![Without JS and how the hover looks](https://github.com/Manshyq/Practice-2/blob/main/screenshots/without%20js%20%2B%20hover.png)
 
 
