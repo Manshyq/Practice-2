@@ -32,7 +32,7 @@ Users should be able to:
 ![Dark mode](screenshots/final dark mode.png)
 ![Light mode](screenshots/final light mode.png)
 ![Withous basic CSS](screenshots/without basic css.png)
-![Without JS and how the hover looks](screenshots/without js + hover.jpg)
+![Without JS and how the hover looks](https://github.com/Manshyq/Practice-2/blob/main/screenshots/without%20js%20%2B%20hover.png)
 
 
 ### Links
